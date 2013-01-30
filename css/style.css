@@ -205,6 +205,10 @@ footer.main {
 
 
 /* CONTEXT-SPECIFIC STYLES */
+textarea#contents {
+    width: 600px;
+    height: 300px;
+}
 textarea#note {
     width: 600px;
     height: 300px;
