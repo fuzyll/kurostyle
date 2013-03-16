@@ -16,6 +16,18 @@ input, select, textarea {
 }
 
 
+/* REUSABLE STYLING */
+.inline {
+    display: inline;
+}
+.hidden {  /* for when you want the element to still take up space */
+    visibility: hidden;
+}
+.really-hidden {  /* for when you want all traces of the element hidden */
+    display: none;
+}
+
+
 /* GLOBAL STYLING */
 html { overflow-y: scroll; }  /* force scrollbar always */
 article, aside, figure, footer, header, hgroup, nav, section { display: block; }
